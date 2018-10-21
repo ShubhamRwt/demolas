@@ -1,0 +1,6 @@
+
+Tasks
+
+1. First task is to create a simple android app which should use the functionalities of the firebase. For eg.Login Functionalities.
+
+2. Second task can be to be integrate a rest Api with Android app.
